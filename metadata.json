@@ -1,1 +1,15 @@
-
+{
+  "name": "ShaBi NFT #1",
+  "description": "My first NFT on Ethereum Sepolia testnet",
+  "image": "https://raw.githubusercontent.com/Ally5399/lycoris/main/%E9%A0%AD%E5%83%8F.jpg",
+  "attributes": [
+    {
+      "trait_type": "Series",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}
